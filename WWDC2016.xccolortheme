@@ -30,6 +30,8 @@
 	<string>0.286275 0.282353 0.243137 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.65098 0.886275 0.180392 1</string>
+	<key>DVTLineSpacing</key>
+	<real>1.1000000238418579</real>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.220706 0.224314 0.202667 1</string>
 	<key>DVTMarkupTextBorderColor</key>
@@ -70,6 +72,8 @@
 	<string>0.121569 0.129412 0.156863 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextCurrentLineHighlightColor</key>
+	<string>0.242721 0.247303 0.26324 0.284461</string>
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>0.972549 0.972549 0.94902 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
