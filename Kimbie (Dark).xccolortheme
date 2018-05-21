@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+
+    Name:       Kimbie (dark)
+    Author:     Jan T. Sott
+    License:    Creative Commons Attribution-ShareAlike 4.0 Unported License
+    URL:        https://github.com/idleberg/Kimbie-Xcode
+
+    Base16 template by for Xcode by Joe Bilt (https://github.com/joedynamite)
+
+-->
+<plist version="1.0">
+<dict>
+  <key>DVTConsoleDebuggerInputTextColor</key>
+  <string>0.8274509803921568 0.6862745098039216 0.5254901960784314 1</string>
+  <key>DVTConsoleDebuggerInputTextFont</key>
+  <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+  <key>DVTConsoleDebuggerOutputTextColor</key>
+  <string>0.8274509803921568 0.6862745098039216 0.5254901960784314 1</string>
+  <key>DVTConsoleDebuggerOutputTextFont</key>
+  <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+  <key>DVTConsoleDebuggerPromptTextColor</key>
+  <string>0.5411764705882353 0.6941176470588235 0.6901960784313725 1</string>
+  <key>DVTConsoleDebuggerPromptTextFont</key>
+  <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+  <key>DVTConsoleExectuableInputTextColor</key>
+  <string>0.8274509803921568 0.6862745098039216 0.5254901960784314 1</string>
+  <key>DVTConsoleExectuableInputTextFont</key>
+  <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+  <key>DVTConsoleExectuableOutputTextColor</key>
+  <string>0.8274509803921568 0.6862745098039216 0.5254901960784314 1</string>
+  <key>DVTConsoleExectuableOutputTextFont</key>
+  <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+  <key>DVTConsoleTextBackgroundColor</key>
+  <string>0.13333333333333333 0.10196078431372549 0.058823529411764705 1</string>
+  <key>DVTConsoleTextInsertionPointColor</key>
+  <string>0.8274509803921568 0.6862745098039216 0.5254901960784314 1</string>
+  <key>DVTConsoleTextSelectionColor</key>
+  <string>0.5176470588235295 0.3803921568627451 0.23921568627450981 1</string>
+  <key>DVTDebuggerInstructionPointerColor</key>
+  <string>0.5333333333333333 0.6078431372549019 0.2901960784313726 1</string>
+  <key>DVTSourceTextBackground</key>
+  <string>0.13333333333333333 0.10196078431372549 0.058823529411764705 1</string>
+  <key>DVTSourceTextBlockDimBackgroundColor</key>
+  <string>0.5 0.5 0.5 1</string>
+  <key>DVTSourceTextInsertionPointColor</key>
+  <string>0.8274509803921568 0.6862745098039216 0.5254901960784314 1</string>
+  <key>DVTSourceTextInvisiblesColor</key>
+  <string>0.6470588235294118 0.47843137254901963 0.2980392156862745 1</string>
+  <key>DVTSourceTextSelectionColor</key>
+  <string>0.5176470588235295 0.3803921568627451 0.23921568627450981 1</string>
+  <key>DVTSourceTextSyntaxColors</key>
+  <dict>
+    <key>xcode.syntax.attribute</key>
+    <string>0.9686274509803922 0.6039215686274509 0.19607843137254902 1</string>
+    <key>xcode.syntax.character</key>
+    <string>0.9686274509803922 0.6039215686274509 0.19607843137254902 1</string>
+    <key>xcode.syntax.comment</key>
+    <string>0.6470588235294118 0.47843137254901963 0.2980392156862745 1</string>
+    <key>xcode.syntax.comment.doc</key>
+    <string>0.6470588235294118 0.47843137254901963 0.2980392156862745 1</string>
+    <key>xcode.syntax.comment.doc.keyword</key>
+    <string>0.596078431372549 0.403921568627451 0.41568627450980394 1</string>
+    <key>xcode.syntax.identifier.class</key>
+    <string>0.9411764705882353 0.39215686274509803 0.19215686274509805 1</string>
+    <key>xcode.syntax.identifier.class.system</key>
+    <string>0.9411764705882353 0.39215686274509803 0.19215686274509805 1</string>
+    <key>xcode.syntax.identifier.constant</key>
+    <string>0.8274509803921568 0.6862745098039216 0.5254901960784314 1</string>
+    <key>xcode.syntax.identifier.constant.system</key>
+    <string>0.8274509803921568 0.6862745098039216 0.5254901960784314 1</string>
+    <key>xcode.syntax.identifier.function</key>
+    <string>0.9411764705882353 0.39215686274509803 0.19215686274509805 1</string>
+    <key>xcode.syntax.identifier.function.system</key>
+    <string>0.5411764705882353 0.6941176470588235 0.6901960784313725 1</string>
+    <key>xcode.syntax.identifier.macro</key>
+    <string>0.49411764705882355 0.3764705882352941 0.17254901960784313 1</string>
+    <key>xcode.syntax.identifier.macro.system</key>
+    <string>0.49411764705882355 0.3764705882352941 0.17254901960784313 1</string>
+    <key>xcode.syntax.identifier.type</key>
+    <string>0.8627450980392157 0.2235294117647059 0.34509803921568627 1</string>
+    <key>xcode.syntax.identifier.type.system</key>
+    <string>0.9686274509803922 0.6039215686274509 0.19607843137254902 1</string>
+    <key>xcode.syntax.identifier.variable</key>
+    <string>0.8627450980392157 0.2235294117647059 0.34509803921568627 1</string>
+    <key>xcode.syntax.identifier.variable.system</key>
+    <string>0.8627450980392157 0.2235294117647059 0.34509803921568627 1</string>
+    <key>xcode.syntax.keyword</key>
+    <string>0.596078431372549 0.403921568627451 0.41568627450980394 1</string>
+    <key>xcode.syntax.number</key>
+    <string>0.9686274509803922 0.6039215686274509 0.19607843137254902 1</string>
+    <key>xcode.syntax.plain</key>
+    <string>0.8274509803921568 0.6862745098039216 0.5254901960784314 1</string>
+    <key>xcode.syntax.preprocessor</key>
+    <string>0.8627450980392157 0.2235294117647059 0.34509803921568627 1</string>
+    <key>xcode.syntax.string</key>
+    <string>0.5333333333333333 0.6078431372549019 0.2901960784313726 1</string>
+    <key>xcode.syntax.url</key>
+    <string>0.5411764705882353 0.6941176470588235 0.6901960784313725 1</string>
+  </dict>
+  <key>DVTSourceTextSyntaxFonts</key>
+  <dict>
+    <key>xcode.syntax.attribute</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+    <key>xcode.syntax.character</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+    <key>xcode.syntax.comment</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+    <key>xcode.syntax.comment.doc</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+    <key>xcode.syntax.comment.doc.keyword</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+    <key>xcode.syntax.identifier.class</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+    <key>xcode.syntax.identifier.class.system</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+    <key>xcode.syntax.identifier.constant</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+    <key>xcode.syntax.identifier.constant.system</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+    <key>xcode.syntax.identifier.function</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+    <key>xcode.syntax.identifier.function.system</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+    <key>xcode.syntax.identifier.macro</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+    <key>xcode.syntax.identifier.macro.system</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+    <key>xcode.syntax.identifier.type</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+    <key>xcode.syntax.identifier.type.system</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+    <key>xcode.syntax.identifier.variable</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+    <key>xcode.syntax.identifier.variable.system</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+    <key>xcode.syntax.keyword</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+    <key>xcode.syntax.number</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+    <key>xcode.syntax.plain</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+    <key>xcode.syntax.preprocessor</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+    <key>xcode.syntax.string</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+    <key>xcode.syntax.url</key>
+    <string>SauceCodeProNerdFontComplete---ExtraLight - 18.0</string>
+  </dict>
+</dict>
+</plist>
