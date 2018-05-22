@@ -8,6 +8,15 @@ love it.
 
 _The original unmodified source for many of these themes is available at [https://github.com/hdoria/xcode-themes](https://github.com/hdoria/xcode-themes)._
 
+# Usage
+
+To install a theme in XCode just copy one of the `.xccolortheme` to XCode's themes folder.
+
+```
+$ mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+$ cp *.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+```
+
 ### Basically
 
 ![Basically](screenshots/Basically.png)
