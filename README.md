@@ -194,11 +194,6 @@ Some original themes are here too.
 ![Pastel Grey](screenshots/Pastel.Grey.png)
 
 
-### screenshots/pngs
-
-![screenshots/pngs](screenshots/pngs)
-
-
 ### Present XLarge
 
 ![Present XLarge](screenshots/Present.XLarge.png)
