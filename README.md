@@ -2,7 +2,7 @@
 
 This is a collection of XCode themes I've found on GitHub and made
 myself.  All are modified to use [Nerd
-fonts](https://nerdfonts.com/) - []SauceCodePro ExtraLight](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/SourceCodePro) because I
+fonts](https://nerdfonts.com/) - [SauceCodePro ExtraLight](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/SourceCodePro) because I
 love it.
 
 The original source for most of the themes is available at [https://github.com/hdoria/xcode-themes](https://github.com/hdoria/xcode-themes).
