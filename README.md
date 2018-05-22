@@ -1,3 +1,13 @@
+# XCode Themes
+
+This is a collection of XCode themes I've found on GitHub and made
+myself.  All are modified to use [Nerd
+fonts](https://nerdfonts.com/) - []SauceCodePro ExtraLight](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/SourceCodePro) because I
+love it.
+
+The original source for most of the themes is available at [https://github.com/hdoria/xcode-themes](https://github.com/hdoria/xcode-themes).
+
+Some original themes are here too.
 
 ### Basically
 
@@ -312,3 +322,18 @@
 ### Yo
 
 ![Yo](screenshots/Yo.png)
+
+# Contributing
+
+If you'd like to contribute a theme to this repo, contributions are welcome, however please follow these guidelines.
+
+1. The theme screenshot/preview should match the style of screenshots already here.
+
+    - Have window dimensions of 1920x2036px
+    - Only show Swift code
+    - Only show code editor
+    - Screenshot with shadows enabled.
+
+(If you want to match exactly the code is [this](https://github.com/cutbox/CutBox/blob/1.3.5/CutBox/CutBox/Source/App/SearchAndPreview/SearchPreviewView.swift#L89-L125))
+
+1. The theme font must be `SauceCodeProNerdFontComplete---ExtraLight - 18.0` for everything or it won't be merged.
