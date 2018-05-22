@@ -321,7 +321,7 @@ _The original unmodified source for many of these themes is available at [https:
 
 If you'd like to contribute a theme to this repo, contributions are welcome, however please follow these guidelines.
 
-1. The theme screenshot/preview should match the style of screenshots already here.
+- The theme screenshot/preview should match the style of screenshots already here.
 
     - Have window dimensions of 1920x2036px
     - Only show Swift code
@@ -330,4 +330,4 @@ If you'd like to contribute a theme to this repo, contributions are welcome, how
 
 (If you want to match exactly the code is [this](https://github.com/cutbox/CutBox/blob/1.3.5/CutBox/CutBox/Source/App/SearchAndPreview/SearchPreviewView.swift#L89-L125))
 
-1. The theme font must be `SauceCodeProNerdFontComplete---ExtraLight - 18.0` for everything or it won't be merged.
+- The theme font must be `SauceCodeProNerdFontComplete---ExtraLight - 18.0` for everything or it won't be merged.
