@@ -10,7 +10,7 @@ _The original unmodified source for many of these themes is available at [https:
 
 # Usage
 
-To install a theme in XCode just copy a `.xccolortheme` to XCode's themes folder.
+To install a theme in XCode just copy a `.xccolortheme` to XCode's themes folder (`$HOME/Library/Developer/Xcode/UserData/FontAndColorThemes/` it may need to be created).
 
 To copy all:
 
