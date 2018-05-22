@@ -21,7 +21,7 @@
 
 ### Coal Graal
 
-![Coal Graal](screenshots/Coal Graal.png)
+![Coal Graal](screenshots/Coal.Graal.png)
 
 
 ### Cobalt
@@ -41,7 +41,7 @@
 
 ### Default Mod1
 
-![Default Mod1](screenshots/Default Mod1.png)
+![Default Mod1](screenshots/Default.Mod1.png)
 
 
 ### Dracula
@@ -61,17 +61,17 @@
 
 ### Dusty Blue
 
-![Dusty Blue](screenshots/Dusty Blue.png)
+![Dusty Blue](screenshots/Dusty.Blue.png)
 
 
 ### Dusty desert
 
-![Dusty desert](screenshots/Dusty desert.png)
+![Dusty desert](screenshots/Dusty.desert.png)
 
 
 ### EGOv2 (Darker)
 
-![EGOv2 (Darker)](screenshots/EGOv2 (Darker).png)
+![EGOv2 (Darker)](screenshots/EGOv2.\(Darker\).png)
 
 
 ### EGOv2
@@ -86,12 +86,12 @@
 
 ### Flat Theme Dark
 
-![Flat Theme Dark](screenshots/Flat Theme Dark.png)
+![Flat Theme Dark](screenshots/Flat.Theme.Dark.png)
 
 
 ### Flat Theme Light
 
-![Flat Theme Light](screenshots/Flat Theme Light.png)
+![Flat Theme Light](screenshots/Flat.Theme.Light.png)
 
 
 ### GitHub
@@ -101,7 +101,7 @@
 
 ### Glitter Bomb
 
-![Glitter Bomb](screenshots/Glitter Bomb.png)
+![Glitter Bomb](screenshots/Glitter.Bomb.png)
 
 
 ### Gruvbox
@@ -121,7 +121,7 @@
 
 ### Kimbie (Dark)
 
-![Kimbie (Dark)](screenshots/Kimbie (Dark).png)
+![Kimbie (Dark)](screenshots/Kimbie.\(Dark\).png)
 
 
 ### Locust
@@ -136,7 +136,7 @@
 
 ### Midnight neon
 
-![Midnight neon](screenshots/Midnight neon.png)
+![Midnight neon](screenshots/Midnight.neon.png)
 
 
 ### Monoguy
@@ -151,7 +151,7 @@
 
 ### Moodnight v2
 
-![Moodnight v2](screenshots/Moodnight v2.png)
+![Moodnight v2](screenshots/Moodnight.v2.png)
 
 
 ### Morrowind
@@ -181,7 +181,7 @@
 
 ### Pastel Grey
 
-![Pastel Grey](screenshots/Pastel Grey.png)
+![Pastel Grey](screenshots/Pastel.Grey.png)
 
 
 ### screenshots/pngs
@@ -191,7 +191,7 @@
 
 ### Present XLarge
 
-![Present XLarge](screenshots/Present XLarge.png)
+![Present XLarge](screenshots/Present.XLarge.png)
 
 
 ### Present
@@ -206,17 +206,17 @@
 
 ### Quiet Light
 
-![Quiet Light](screenshots/Quiet Light.png)
+![Quiet Light](screenshots/Quiet.Light.png)
 
 
 ### Raspberry Sorbet
 
-![Raspberry Sorbet](screenshots/Raspberry Sorbet.png)
+![Raspberry Sorbet](screenshots/Raspberry.Sorbet.png)
 
 
 ### Rearden Steel
 
-![Rearden Steel](screenshots/Rearden Steel.png)
+![Rearden Steel](screenshots/Rearden.Steel.png)
 
 
 ### Resesif
@@ -231,7 +231,7 @@
 
 ### Scratch Art
 
-![Scratch Art](screenshots/Scratch Art.png)
+![Scratch Art](screenshots/Scratch.Art.png)
 
 
 ### SecondGear
@@ -241,37 +241,37 @@
 
 ### Sidewalk Chalk Mod1
 
-![Sidewalk Chalk Mod1](screenshots/Sidewalk Chalk Mod1.png)
+![Sidewalk Chalk Mod1](screenshots/Sidewalk.Chalk.Mod1.png)
 
 
 ### Sidewalk Chalk
 
-![Sidewalk Chalk](screenshots/Sidewalk Chalk.png)
+![Sidewalk Chalk](screenshots/Sidewalk.Chalk.png)
 
 
 ### Solarize Dark
 
-![Solarize Dark](screenshots/Solarize Dark.png)
+![Solarize Dark](screenshots/Solarize.Dark.png)
 
 
 ### Solarize Light
 
-![Solarize Light](screenshots/Solarize Light.png)
+![Solarize Light](screenshots/Solarize.Light.png)
 
 
 ### Solarized Dark
 
-![Solarized Dark](screenshots/Solarized Dark.png)
+![Solarized Dark](screenshots/Solarized.Dark.png)
 
 
 ### Solarized Light
 
-![Solarized Light](screenshots/Solarized Light.png)
+![Solarized Light](screenshots/Solarized.Light.png)
 
 
 ### Space Gray
 
-![Space Gray](screenshots/Space Gray.png)
+![Space Gray](screenshots/Space.Gray.png)
 
 
 ### Spacedust
@@ -281,7 +281,7 @@
 
 ### Tomorrow Night
 
-![Tomorrow Night](screenshots/Tomorrow Night.png)
+![Tomorrow Night](screenshots/Tomorrow.Night.png)
 
 
 ### Twilight
@@ -312,4 +312,3 @@
 ### Yo
 
 ![Yo](screenshots/Yo.png)
-
