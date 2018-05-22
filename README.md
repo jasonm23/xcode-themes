@@ -51,7 +51,7 @@
 
 ### Dusk v2
 
-![Dusk v2](screenshots/Dusk v2.png)
+![Dusk v2](screenshots/Dusk.v2.png)
 
 
 ### Dusky
@@ -176,7 +176,7 @@
 
 ### Pastel Dark
 
-![Pastel Dark](screenshots/Pastel Dark.png)
+![Pastel Dark](screenshots/Pastel.Dark.png)
 
 
 ### Pastel Grey
