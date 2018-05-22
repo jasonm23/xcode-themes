@@ -6,7 +6,7 @@ All of them are modified to use [Nerd
 fonts](https://nerdfonts.com/) - [SauceCodePro ExtraLight](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/SourceCodePro) because I
 love it.
 
-_The original source for many of these themes is available at [https://github.com/hdoria/xcode-themes](https://github.com/hdoria/xcode-themes)._
+_The original unmodified source for many of these themes is available at [https://github.com/hdoria/xcode-themes](https://github.com/hdoria/xcode-themes)._
 
 ### Basically
 
